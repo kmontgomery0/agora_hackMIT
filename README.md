@@ -1,6 +1,6 @@
-# agora - a decision making web app 
+# agora - go with your gut
 
-Created for HackMIT 2023 (not submitted in time due to some technical problems).
+A decision-making web app, tailored to assist indecisive individuals in their decision-making journey. Driven by user audio input and enables real-time emotion detection using a Python sentiment analysis model sourced from Hugging Face. Created for HackMIT 2023.
 
 ![logo-branding](public/branding.png)
 
