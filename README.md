@@ -14,3 +14,7 @@ https://youtu.be/fxhFVNplBYM
 
 ### figma ui and design: 
 ![agora-ui](public/v1.jpg)
+
+### collaborators
+Frontend: Elaine Wang, Krystal Montgomery
+Backend: Elaine Liu, Hara Moraitaki
