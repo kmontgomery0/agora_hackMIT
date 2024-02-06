@@ -16,5 +16,5 @@ https://youtu.be/fxhFVNplBYM
 ![agora-ui](public/v1.jpg)
 
 ### collaborators
-Frontend: Elaine Wang, Krystal Montgomery
-Backend: Elaine Liu, Hara Moraitaki
+- Frontend: Elaine Wang, Krystal Montgomery
+- Backend: Elaine Liu, Hara Moraitaki
